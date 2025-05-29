@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-void dosomething1(string s){
+void dosomething1(string s){//use copy of the string
     s[0]='t';
     cout<<s<<endl;
 }
